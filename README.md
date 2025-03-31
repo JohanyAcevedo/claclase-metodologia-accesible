@@ -1,1 +1,1 @@
-# claclase-metodologia-accesible
+# clase-metodologia-accesible
